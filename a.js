@@ -2,4 +2,4 @@ console.log(100);
 
 console.log(200);
 
-alert("sdhjsgsa")
+console.log(300);
